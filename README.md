@@ -1,4 +1,4 @@
-# ExerciciosIvi
+# Exercicios Ivi
 
 Atividade Pontuação
 1 - Criar um projeto
